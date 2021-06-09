@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: sans;
+    src: url(./assets/sans.woff);
+    font-weight: normal;
+}
+html,
+body {
+    margin: 0;
+    font-family: sans, sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+b {
+    font-weight: normal !important;
+    font-size: 25px;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin-top: 0;
+}
+
+#theGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+
+#theGrid a {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.p15 {
+    padding: 15px;
+}
+
+.lead {
+    font-size: 200%;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.m-top-50 {
+    margin-top: 50px;
+}
+
+.m-bot-50 {
+    margin-bottom: 50px;
+}
