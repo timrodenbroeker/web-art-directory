@@ -19,7 +19,7 @@
         "title": "Everything you see is in the past",
         "artist": "Rafa&#235;l Rozendaal",
         "artistWebsite": "https://www.newrafael.com/",
-        "thumb": false,
+        "thumb": "img/everythingyouseeis.jpg",
         "description": "text",
         "url": "http://www.everythingyouseeisinthepast.com/"
     },
@@ -59,7 +59,7 @@
         "title": " http://ascii.designforthe.net/",
         "artist": false,
         "artistWebsite": false,
-        "thumb": false,
+        "thumb": "img/designforthe.jpg",
         "description": "text",
         "url": " http://ascii.designforthe.net/"
     },
@@ -67,7 +67,7 @@
         "title": "FORM ART COMPETITION",
         "artist": "Alexei Schulgin",
         "artistWebsite": "http://www.easylife.org/?",
-        "thumb": false,
+        "thumb": "img/formart.jpg",
         "description": "text",
         "url": "http://variants.artbase.rhizome.org/Q1249/"
     },
@@ -75,23 +75,15 @@
         "title": "Numbers",
         "artist": "Jon Gacnik",
         "artistWebsite": "https://jongacnik.com/numbers",
-        "thumb": false,
+        "thumb": "img/numbers.jpg",
         "description": "text",
         "url": "https://jongacnik.com/numbers"
-    },
-    {
-        "title": "Arecibo",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
-        "description": "",
-        "url": "https://x20xx.com/arecibo/"
     },
     {
         "title": "Qubit",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/qubit.jpg",
         "description": "",
         "url": "https://x20xx.com/qubit.html"
     },
@@ -99,7 +91,7 @@
         "title": "Freeport",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/freeport.jpg",
         "description": "",
         "url": "https://x20xx.com/freeport.php"
     },
@@ -107,34 +99,19 @@
         "title": "strmsg",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/strmsg.jpg",
         "description": "",
         "url": "https://x20xx.com/strmsg/"
-    },
-    {
-        "title": "kaomoji",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
-        "description": "",
-        "url": "https://x20xx.com/kaomoji.html"
     },
     {
         "title": "TimePassed",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/timepassed.jpg",
         "description": "",
         "url": "https://x20xx.com/time.html"
     },
-    {
-        "title": "DopplerFelix",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
-        "description": "",
-        "url": "https://x20xx.com/dopplerfelix.html"
-    },
+   
     {
         "title": "Hexa",
         "artist": "x20xx",
@@ -147,7 +124,7 @@
         "title": "LargeText",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/largetext.jpg",
         "description": "",
         "url": "https://x20xx.com/largetext.html"
     },
@@ -155,15 +132,15 @@
         "title": "The End",
         "artist": "x20xx",
         "artistWebsite": "https://x20xx.com/",
-        "thumb": "",
+        "thumb": "img/theend.jpg",
         "description": "",
         "url": "https://x20xx.com/theend.html"
     },
     {
-        "title": "The End",
+        "title": "010000.org",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/010000.jpg",
         "description": "",
         "url": "https://010000.org/"
     },
@@ -171,7 +148,7 @@
         "title": "All the Minutes",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/alltheminutes.jpg",
         "description": "",
         "url": "http://alltheminutes.com/"
     },
@@ -179,7 +156,7 @@
         "title": "clickclickclick",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/click.jpg",
         "description": "",
         "url": "https://clickclickclick.click/"
     },
@@ -187,7 +164,7 @@
         "title": "baabaa",
         "artist": "Sam Lavigne",
         "artistWebsite": "",
-        "thumb": "",
+        "thumb": "img/baabaa.jpg",
         "description": "",
         "url": "https://antiboredom.github.io/baabaa/index.html"
     },
@@ -195,7 +172,7 @@
         "title": "okaygood",
         "artist": "Drew Wallace",
         "artistWebsite": "http://drewwallacegames.com/",
-        "thumb": "",
+        "thumb": "img/okaygood.jpg",
         "description": "",
         "url": "http://drewwallacegames.com/okaygood.html"
     },
@@ -203,7 +180,7 @@
         "title": "Click here to save the World",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/save.jpg",
         "description": "",
         "url": "https://clickheretosavetheworld.com/"
     },
@@ -211,7 +188,7 @@
         "title": "onelongscream.com/",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/ahh.jpg",
         "description": "",
         "url": "http://onelongscream.com/"
     },
@@ -219,15 +196,15 @@
         "title": "iamtired.online",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/iamtired.jpg",
         "description": "",
         "url": "https://iamtired.online/"
     },
     {
-        "title": "eelslap.com/",
+        "title": "eelslap.com",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/eel.jpg",
         "description": "",
         "url": "http://eelslap.com/"
     },
@@ -235,7 +212,7 @@
         "title": "yesnoif",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/yesnoif.jpg",
         "description": "",
         "url": "http://www.yesnoif.com/"
     },
@@ -243,7 +220,7 @@
         "title": "Endless Horse",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/horse.jpg",
         "description": "",
         "url": "http://endless.horse/"
     },
@@ -251,7 +228,7 @@
         "title": "Move Now Think Later",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/movenow.jpg",
         "description": "",
         "url": "http://www.movenowthinklater.com/"
     },
@@ -259,7 +236,7 @@
         "title": "fragmentsin.space",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/fragmentsinspace.jpg",
         "description": "",
         "url": "http://fragmentsin.space/"
     },
@@ -283,21 +260,21 @@
         "title": "http://wwwwwwwww.jodi.org/",
         "artist": "jodi.org",
         "artistWebsite": "http://wwwwwwwww.jodi.org/",
-        "thumb": "",
+        "thumb": "img/jodiorg.jpg",
         "description": "",
         "url": "http://wwwwwwwww.jodi.org/"
     },{
         "title": "idn.jodi.org/",
         "artist": "jodi.org",
         "artistWebsite": "http://wwwwwwwww.jodi.org/",
-        "thumb": "",
+        "thumb": "img/idnjodi.jpg",
         "description": "",
         "url": "http://idn.jodi.org/"
     },{
         "title": "The Expanding Universe",
         "artist": "Dimitris Gkikas",
         "artistWebsite": "https://folder-one.eu/",
-        "thumb": "",
+        "thumb": "img/sxpandinguniverse.jpg",
         "description": "",
         "url": "https://folder-one.eu/23.15/"
     },{
@@ -311,21 +288,21 @@
         "title": "Scrollbar Composition",
         "artist": false,
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/scrollbarcomposition.jpg",
         "description": "",
         "url": "http://www.scrollbarcomposition.com/"
     },{
         "title": "hoera.samenschool.org/",
         "artist": "Vincent Van Dijck",
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/hoera.jpg",
         "description": "",
         "url": "https://hoera.samenschool.org/"
     },{
         "title": "Roomtones",
         "artist": "Vincent Van Dijck",
         "artistWebsite": false,
-        "thumb": "",
+        "thumb": "img/roomtones.jpg",
         "description": "",
         "url": "https://roomtones.massa.media/"
     }
