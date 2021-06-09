@@ -69,6 +69,14 @@ h5 {
     }
 }
 
+@media (max-width: 600px) {
+    #theGrid {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
 #theGrid h3 {
     font-size: 14px;
 }
