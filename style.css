@@ -70,6 +70,10 @@ img {
     font-size: 200%;
 }
 
+a {
+    text-decoration: none;
+    color: blue;
+}
 .container {
     width: 100%;
     max-width: 800px;
