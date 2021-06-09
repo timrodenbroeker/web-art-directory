@@ -51,8 +51,14 @@ h5 {
 
 #theGrid a {
     text-align: center;
-
     margin-right: 15px;
+}
+
+#theGrid a img {
+    transition: all 0.4s ease;
+}
+#theGrid a:hover img {
+    opacity: 0.8;
 }
 
 #theGrid img {
