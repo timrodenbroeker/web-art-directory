@@ -5,6 +5,8 @@ fetch("./data/sites.json")
     .then((data) => prepareHTML(data));
 
 function prepareHTML(data) {
+    data.sort(() => Math.random() - 0.5);
+
     for (var i = 0; i < data.length; i++) {
         var dataItem = data[i];
 
