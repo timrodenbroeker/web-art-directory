@@ -18,7 +18,7 @@ function prepareHTML(data) {
         if (dataItem.thumb != false) {
             img.src = dataItem.thumb;
         } else {
-            img.src = "./img/nothumbnail.png";
+            img.src = "./img/nothumb.jpg";
         }
 
         item.appendChild(img);

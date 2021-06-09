@@ -27,7 +27,7 @@
         "title": "Automatic Rain",
         "artist": "jodi.org",
         "artistWebsite": "https://jodi.org",
-        "thumb": "img/automaticrain.jpg",
+        "thumb": "img/autorain.jpg",
         "description": "text",
         "url": "http://wwwwwwwww.jodi.org/betalab/rain/index.html"
     },
@@ -35,7 +35,7 @@
         "title": "https://t-e-l-e-p-o-r-t.me/",
         "artist": "Ahmed Ghazi",
         "artistWebsite": "https://ahmedghazi.com/",
-        "thumb": "img/teleportme.jpg",
+        "thumb": "img/teleport.jpg",
         "description": "text",
         "url": "https://t-e-l-e-p-o-r-t.me/"
     },
@@ -43,7 +43,7 @@
         "title": "Pointer Pointer",
         "artist": "Jonathan Puckey",
         "artistWebsite": "https://puckey.studio/",
-        "thumb": "img/pointerpointer.jpg",
+        "thumb": "img/pointer.jpg",
         "description": "text",
         "url": "https://pointerpointer.com/"
     },
