@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: sans;
-    src: url(./assets/Inter-Regular.woff);
+    src: url(./assets/sans.woff);
     font-weight: normal;
 }
 html,
@@ -108,9 +108,13 @@ h1,
     font-size: 200%;
 }
 
+#logo {
+    width: 400px;
+}
+
 a {
     text-decoration: none;
-    color: blue;
+    color: #2000a1;
 
     /* These are technically the same, but use both */
     overflow-wrap: break-word;
