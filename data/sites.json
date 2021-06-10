@@ -317,7 +317,7 @@
         "artist": "Tim Rodenbröker",
         "artistWebsite": false,
         "thumb": "img/thewave.jpg",
-        "description": "",
+        "description": "The Wave is an interactive, audiovisual experience built with p5.js.",
         "url": "https://timrodenbroeker.github.io/thewave/"
     },{
         "title": "The Grid",

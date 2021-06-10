@@ -120,7 +120,7 @@ img {
 }
 h1,
 .lead {
-    font-size: calc(16px + 3vw);
+    font-size: calc(16px + 2vw);
 }
 
 #logo {
@@ -249,5 +249,10 @@ p a {
 }
 
 p.lead a {
-    border-bottom: 10px solid #2000a1;
+    border-bottom: 2px solid #2000a1;
+}
+
+header {
+    width: 50%;
+    margin-bottom: 100px;
 }
