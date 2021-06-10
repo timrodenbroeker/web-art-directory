@@ -12,14 +12,21 @@ body {
     margin: 0;
     font-family: sans, sans-serif;
     background: #eeeeee;
-    font-size: 25px;
 }
 
 p {
     line-height: 110%;
 }
+.lead {
+    line-height: 100%;
+}
+
+ul {
+    margin: 0;
+}
 
 p,
+.btn,
 h1,
 h2,
 h3,
@@ -29,7 +36,7 @@ h6,
 li,
 b {
     font-weight: normal !important;
-    font-size: 25px;
+    font-size: calc(10px + 1vw);
 }
 
 a {
@@ -113,7 +120,7 @@ img {
 }
 h1,
 .lead {
-    font-size: 300%;
+    font-size: calc(16px + 3vw);
 }
 
 #logo {
@@ -185,6 +192,7 @@ body.modalActive #silk {
     z-index: 10001;
     background: #f1f1f1;
     transition: right 0.4s ease;
+    overflow-y: scroll;
 }
 
 @media (max-width: 1200px) {
@@ -216,4 +224,30 @@ body.modalActive #modal {
 
 .btn:hover {
     background: black;
+}
+
+#preloader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: top 0.4s ease;
+    background: #2000a1;
+    z-index: 20000;
+}
+
+#preloader.hide {
+    top: -100vh;
+}
+
+p a {
+    border-bottom: 2px solid #2000a1;
+}
+
+p.lead a {
+    border-bottom: 10px solid #2000a1;
 }

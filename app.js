@@ -92,3 +92,50 @@ function populizeModal(index) {
     button.innerHTML = "Launch";
     modalContent.appendChild(button);
 }
+
+var infoMarkup = `
+
+        
+<p>With this archive I want to explore and catalog expressions and tendencies in the genre of Web Art. The selection of works in this collection is strictly based on the following criteria: 
+
+</p>
+<ul style="margin-bottom: 50px;">
+  <li>Built with HTML, CSS and Javascript</li>
+  <li>A purely artistic purpose</li>
+  <li>A very simple, distinct idea</li>
+</ul>
+
+<p>This project is run by <a href="https://www.timrodenbroeker.de" target="_blank">Tim Rodenbröker</a></p>
+
+<a class="btn" href="mailto:timrodenbroeker@gmail.com?subject=WEB-ART-DIRECTORY">
+  Submit
+</a>
+`;
+
+var learnMoreBtn = document.getElementById("learnMore");
+learnMoreBtn.addEventListener("click", function (e) {
+    learnMore();
+});
+
+function learnMore() {
+    let img = document.createElement("img");
+    img.src = "./img/globe00057.png";
+
+    let modalHeader = document.getElementById("modalHeader");
+    modalHeader.innerHTML = "";
+    // modalHeader.appendChild(img);
+
+    let modalContent = document.getElementById("modalContent");
+    modalContent.innerHTML = infoMarkup;
+
+    toggleModal();
+}
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function () {
+        var preloader = document.getElementById("preloader");
+        setTimeout(() => preloader.classList.add("hide"), 1000);
+    },
+    false
+);
