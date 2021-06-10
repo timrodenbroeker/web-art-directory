@@ -193,14 +193,6 @@
         "url": "http://onelongscream.com/"
     },
     {
-        "title": "onelongscream.com/",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/ahh.jpg",
-        "description": "",
-        "url": "http://onelongscream.com/"
-    },
-    {
         "title": "iamtired.online",
         "artist": false,
         "artistWebsite": false,
@@ -334,6 +326,13 @@
         "thumb": "img/grid.jpg",
         "description": "",
         "url": "https://timrodenbroeker.github.io/the-grid/"
+    },{
+        "title": "Indirect Flights",
+        "artist": "Joe Hamilton",
+        "artistWebsite": "https://joehamilton.info",
+        "thumb": "img/indirectflights.jpg",
+        "description": "",
+        "url": "https://indirect.flights/"
     }
     
     
