@@ -12,6 +12,11 @@ body {
     margin: 0;
     font-family: sans, sans-serif;
     background: #eeeeee;
+    font-size: 25px;
+}
+
+p {
+    line-height: 110%;
 }
 
 p,
@@ -39,10 +44,14 @@ h5 {
     margin-top: 0;
 }
 
+img {
+    display: block;
+}
 #theGrid {
     width: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 15px;
 }
 
 @media (max-width: 1400px) {
@@ -83,7 +92,6 @@ h5 {
 
 #theGrid a {
     text-align: center;
-    margin-right: 15px;
 }
 
 #theGrid a img {
@@ -105,7 +113,7 @@ img {
 }
 h1,
 .lead {
-    font-size: 200%;
+    font-size: 300%;
 }
 
 #logo {
@@ -131,6 +139,7 @@ a {
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+    cursor: pointer;
 }
 .container {
     width: 100%;
@@ -146,4 +155,65 @@ a {
 
 .m-bot-50 {
     margin-bottom: 50px;
+}
+
+#silk {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10000;
+    transition: opacity 0.4s ease;
+    opacity: 0;
+    pointer-events: none;
+}
+
+body.modalActive #silk {
+    cursor: pointer;
+    opacity: 1;
+    pointer-events: all;
+}
+
+#modal {
+    position: fixed;
+    top: 0;
+    right: -55%;
+    width: 50%;
+    height: 100vh;
+    z-index: 10001;
+    background: #f1f1f1;
+    transition: right 0.4s ease;
+}
+
+@media (max-width: 1200px) {
+    #modal {
+        width: 75%;
+        right: -80%;
+    }
+}
+
+#modalHeader {
+}
+
+#modalContent {
+    padding: 25px;
+}
+
+body.modalActive #modal {
+    right: 0;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: #2000a1;
+    display: inline-block;
+    border-radius: 25px;
+    color: white;
+    transition: background-color 0.4s ease;
+}
+
+.btn:hover {
+    background: black;
 }
