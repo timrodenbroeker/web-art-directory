@@ -9,9 +9,14 @@
 -   http://worldwidewelcome.harrisblondman.nl/
 -   https://www.damonzucconi.com/artworks/websites
 -   https://indirect.flights/
+-   http://nirvana.juliannes.website/
+-   https://raphaelbastide.com/
+-   https://fabien-mousse.fr/
+-   http://jazz.computer/
 
 ## Scrape
 
+-   http://hyperloneliness.juliannes.website/
 -   https://noemata.net
 -   http://www.c3.hu/~zsolt/
 -   https://www.browserbased.org
