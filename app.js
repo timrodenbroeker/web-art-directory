@@ -39,6 +39,21 @@ function prepareHTML(data) {
         let parent = document.getElementById("theGrid");
         parent.appendChild(item);
     }
+
+    // Künstler extrahieren
+
+    let artistsArray = [];
+
+    for (let i = 0; i < data.length; i++) {
+        let dataItem = data[i];
+        artistsArray.push(dataItem.artist);
+    }
+
+    let uniqueArtistsArray = [...new Set(artistsArray)];
+
+    for (let i = 0; i < uniqueArtistsArray.length; i++) {
+        console.log(uniqueArtistsArray[i]);
+    }
 }
 
 function toggleModal() {
@@ -54,6 +69,10 @@ silk.addEventListener("click", function (e) {
 
 function populizeModal(index) {
     let dataItem = theData[index];
+
+    let browserMockup = document.createElement("div");
+    browserMockup.classList.add("browser-mockup");
+
     let img = document.createElement("img");
     if (dataItem.thumb != false) {
         img.src = dataItem.thumb;
@@ -61,9 +80,11 @@ function populizeModal(index) {
         img.src = "./img/nothumb.jpg";
     }
 
+    browserMockup.appendChild(img);
+
     let modalHeader = document.getElementById("modalHeader");
     modalHeader.innerHTML = "";
-    modalHeader.appendChild(img);
+    modalHeader.appendChild(browserMockup);
 
     let modalContent = document.getElementById("modalContent");
     modalContent.innerHTML = "";
@@ -107,9 +128,7 @@ var infoMarkup = `
 
 <p>This project is run by <a href="https://www.timrodenbroeker.de" target="_blank">Tim Rodenbröker</a></p>
 
-<a class="btn" href="mailto:timrodenbroeker@gmail.com?subject=WEB-ART-DIRECTORY">
-  Submit
-</a>
+
 `;
 
 var learnMoreBtn = document.getElementById("learnMore");

@@ -18,7 +18,7 @@ p {
     line-height: 110%;
 }
 .lead {
-    line-height: 100%;
+    line-height: 110%;
 }
 
 ul {
@@ -36,7 +36,7 @@ h6,
 li,
 b {
     font-weight: normal !important;
-    font-size: calc(10px + 1vw);
+    font-size: calc(16px + 1vw);
 }
 
 a {
@@ -170,7 +170,7 @@ a {
     left: 0;
     width: 100%;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.7);
     z-index: 10000;
     transition: opacity 0.4s ease;
     opacity: 0;
@@ -195,7 +195,7 @@ body.modalActive #silk {
     overflow-y: scroll;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1600px) {
     #modal {
         width: 75%;
         right: -80%;
@@ -241,18 +241,76 @@ body.modalActive #modal {
 }
 
 #preloader.hide {
-    top: -100vh;
+    top: -110vh;
 }
 
 p a {
-    border-bottom: 2px solid #2000a1;
 }
 
 p.lead a {
-    border-bottom: 2px solid #2000a1;
 }
 
 header {
     width: 50%;
     margin-bottom: 100px;
+}
+
+@media (max-width: 1300px) {
+    header {
+        width: 100%;
+    }
+}
+
+.browser-mockup {
+    border-top: 2em solid rgba(230, 230, 230, 0.7);
+    box-shadow: 0 0.1em 1em 0 rgba(0, 0, 0, 0.4);
+    position: relative;
+    border-radius: 3px 3px 0 0;
+}
+
+.browser-mockup:before {
+    display: block;
+    position: absolute;
+    content: "";
+    top: -1.25em;
+    left: 1em;
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 50%;
+    background-color: #f44;
+    box-shadow: 0 0 0 2px #f44, 1.5em 0 0 2px #9b3, 3em 0 0 2px #fb5;
+}
+
+.browser-mockup.with-tab:after {
+    display: block;
+    position: absolute;
+    content: "";
+    top: -2em;
+    left: 5.5em;
+    width: 20%;
+    height: 0em;
+    border-bottom: 2em solid white;
+    border-left: 0.8em solid transparent;
+    border-right: 0.8em solid transparent;
+}
+
+.browser-mockup.with-url:after {
+    display: block;
+    position: absolute;
+    content: "";
+    top: -1.6em;
+    left: 5.5em;
+    width: calc(100% - 6em);
+    height: 1.2em;
+    border-radius: 2px;
+    background-color: white;
+}
+
+.browser-mockup > * {
+    display: block;
+}
+
+.browser-mockup {
+    margin: 2em;
+    flex: 1;
 }
