@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mirrors",
+    "artist": "Tim Rodenbröker",
+    "artistWebsite": "https://timrodenbroeker.de",
+    "thumb": false,
+    "description": "This project was created in summer 2020 during my master studies at the University of Applied Sciences Bielefeld (study field <i>Digital Media and Experiment</i>). Complementary to the digital works of the web-based exhibition <i>In This Layered World All Perception Is Real</i> of the Bielefelder Kunstverein we were commissoned to develop artistic reactions. So the aim was to interpret the works in the exhibition and to respond to them artistically.",
+    "url": "https://timrodenbroeker.de/apps/mirrors/"
+  },
+  {
     "title": "Physics of Beauty",
     "artist": "",
     "artistWebsite": "",
