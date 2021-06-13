@@ -84,11 +84,7 @@ function populizeModal(index) {
 }
 
 var infoMarkup = `
-        <h1 class="">
-        This is the WEB-ART-DIRECTORY, a curated collection of con&shy;ceptual
-        art&shy;works built with web-tech&shy;nologies.
-      </h1>
-
+       
     <p>With this archive I want to explore and catalog expressions and tendencies in the genre of Web Art. The selection of works in this collection is strictly based on the following criteria: 
     </p>
     <ul style="margin-bottom: 50px;">

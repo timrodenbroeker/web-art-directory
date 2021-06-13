@@ -4,15 +4,10 @@
 
 @font-face {
   font-family: sans;
-  src: url(./fonts/Inter-Medium.woff);
+  src: url(./fonts/sans.woff);
   font-weight: normal;
 }
 
-@font-face {
-  font-family: sans;
-  src: url(./fonts/Inter-ExtraBold.woff);
-  font-weight: bold;
-}
 html,
 body {
   margin: 0;
@@ -40,7 +35,7 @@ h5,
 h6,
 li,
 b {
-  font-weight: normal !important;
+  font-weight: normal;
   font-size: calc(16px + 1vw);
 }
 
@@ -62,7 +57,7 @@ img {
 #theGrid {
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 15px;
 }
 
@@ -266,8 +261,12 @@ body.modalActive #modal {
   top: 0;
   left: 0;
   transition: top 0.4s ease;
-  background: #ff0000;
+  background: #f1f1f1;
   z-index: 20000;
+}
+
+#preloader * {
+  color: black;
 }
 
 #preloader.hide {
@@ -284,9 +283,7 @@ nav {
   display: flex;
   justify-content: space-between;
   background: #f1f1f1;
-  position: fixed;
-  top: 0;
-  left: 0;
+
   width: 100%;
   z-index: 9000;
 }
@@ -305,7 +302,6 @@ header h1 {
   font-size: calc(4px + 6vw);
   line-height: 105%;
   padding-bottom: 50px;
-  font-weight: bold;
 }
 
 header a {
