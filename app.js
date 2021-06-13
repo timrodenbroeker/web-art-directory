@@ -111,7 +111,7 @@ function populizeModal(index) {
     modalContent.appendChild(by);
   }
 
-  if (dataItem.artist != false) {
+  if (dataItem.desc != false) {
     let desc = document.createElement("p");
     desc.append(dataItem.description);
     modalContent.appendChild(desc);

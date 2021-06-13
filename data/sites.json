@@ -59,7 +59,7 @@
     "title": "empathi.cc",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": false,
+    "thumb": "img/empathy.png",
     "description": "Artist Statement: The ability to understand and share other people’s feelings and problems is known as empathy. On the web page empathi.cc is a graphic element which can be moved and can mimic visual attributes from its neighbours. The style transfer between the page’s elements can be considered as a minimal version of empathy, where the distance between objects triggers visual mutations. Consequently, the main graphic element gets affected by an accumulating memory of style properties depending on its path. Created for the online group show Come Closer, curated by Anne Schwanz.",
     "url": "https://empathi.cc/"
   },
@@ -72,10 +72,10 @@
     "url": "https://snow-on-gpu.online/"
   },
   {
-    "title": "a mute interface",
+    "title": "Jazz Computer",
     "artist": "Yotam Mann and Sarah Rothberg",
     "artistWebsite": "https://yotammann.info/",
-    "thumb": "img/muteinterface.png",
+    "thumb": "img/jazzcomputer.png",
     "description": false,
     "url": "http://jazz.computer/"
   },
@@ -83,7 +83,7 @@
     "title": "a mute interface",
     "artist": "Annie Abrahams",
     "artistWebsite": "https://aabrahams.wordpress.com/",
-    "thumb": false,
+    "thumb": "img/muteinterface.png",
     "description": false,
     "url": "https://www.bram.org/interface/"
   },
@@ -91,7 +91,7 @@
     "title": "",
     "artist": "sara sujireia",
     "artistWebsite": false,
-    "thumb": false,
+    "thumb": "img/saras.png",
     "description": false,
     "url": "https://comcomcomcomcomcomcomcomcomcomcomcomcom.online/noicaerc-ed-otca/"
   },
@@ -99,15 +99,15 @@
     "title": "antipedia.net",
     "artist": "Floor Vanden Berghe",
     "artistWebsite": "www.floorvandenberghe.be",
-    "thumb": "img/eyes.png",
+    "thumb": "img/antipedia.png",
     "description": false,
     "url": "http://www.antipedia.net/"
   },
   {
-    "title": "Time_Code_Time_Painting",
+    "title": "time painting",
     "artist": "Max Frischknecht",
     "artistWebsite": "https://maxfrischknecht.ch/",
-    "thumb": false,
+    "thumb": "img/timepainting.png",
     "description": false,
     "url": "https://maxfrischknecht.github.io/Time_Code_Time_Painting/"
   },
@@ -115,7 +115,7 @@
     "title": "all-eyes-on-me.watch ",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": false,
+    "thumb": "img/alleyes.png",
     "description": "a websites that keeps eye contact with you",
     "url": "http://all-eyes-on-me.watch/"
   },
@@ -123,7 +123,7 @@
     "title": "the-distant-past.xyz",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": false,
+    "thumb": "img//distantpast.png",
     "description": "a website that lets you leave something behind for the next visitor",
     "url": "https://the-distant-past.xyz/"
   },
@@ -131,7 +131,7 @@
     "title": "give-and-take.download",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": false,
+    "thumb": "img/givedownload.png",
     "description": "a website that lets you leave something behind for the next visitor",
     "url": "https://give-and-take.download/"
   },
