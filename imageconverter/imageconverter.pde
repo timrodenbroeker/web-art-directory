@@ -30,8 +30,8 @@ void draw() {
   background(#f1f1f1);
 noStroke();
 fill(#2000a1);
-  if (frameCount < imageFileNames.length-1) {
-    PImage img = loadImage(imageFileNames[frameCount]);
+  if (frameCount < imageFileNames.length) {
+    PImage img = loadImage(imageFileNames[frameCount-1]);
     img.resize(width, height);
     float tilesX = 200; 
     float tilesY = int(tilesX/4*3);
@@ -55,7 +55,7 @@ fill(#2000a1);
         pop();
       }
     }
-    saveFrame("../imgProcessed/" + imageFileNames[frameCount]);
+    saveFrame("../imgProcessed/" + imageFileNames[frameCount-1]);
   } else {
     exit();
   }
