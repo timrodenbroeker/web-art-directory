@@ -25,7 +25,7 @@ void setup() {
 void draw() {
   background(#f1f1f1);
   noStroke();
-  fill(#ff0000);
+  fill(#000000);
   if (frameCount < imageFileNames.length+1) {
 
     PImage img = loadImage(imageFileNames[frameCount-1]);
