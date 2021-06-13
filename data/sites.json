@@ -1,350 +1,411 @@
 [
-    {
-        "title": "Get Well Soon",
-        "artist": "Tega Brain",
-        "artistWebsite": "http://tegabrain.com/", 
-        "thumb": "img/getwellsoon.jpg",
-        "description": "text",
-        "url": "http://getwellsoon.labr.io/"
-    },
-    {
-        "title": "Only Suddenly",
-        "artist": "Rafa&#235;l Rozendaal",
-        "artistWebsite": "https://www.newrafael.com/",        
-        "thumb": "img/onlysuddenly.jpg",
-        "description": "text",
-        "url": "http://www.onlysuddenly.com/"
-    },
-    {
-        "title": "Everything you see is in the past",
-        "artist": "Rafa&#235;l Rozendaal",
-        "artistWebsite": "https://www.newrafael.com/",
-        "thumb": "img/everythingyouseeis.jpg",
-        "description": "text",
-        "url": "http://www.everythingyouseeisinthepast.com/"
-    },
-    {
-        "title": "Automatic Rain",
-        "artist": "jodi.org",
-        "artistWebsite": "https://jodi.org",
-        "thumb": "img/autorain.jpg",
-        "description": "text",
-        "url": "http://wwwwwwwww.jodi.org/betalab/rain/index.html"
-    },
-    {
-        "title": "https://t-e-l-e-p-o-r-t.me/",
-        "artist": "Ahmed Ghazi",
-        "artistWebsite": "https://ahmedghazi.com/",
-        "thumb": "img/teleport.jpg",
-        "description": "text",
-        "url": "https://t-e-l-e-p-o-r-t.me/"
-    },
-    {
-        "title": "Pointer Pointer",
-        "artist": "Jonathan Puckey",
-        "artistWebsite": "https://puckey.studio/",
-        "thumb": "img/pointer.jpg",
-        "description": "text",
-        "url": "https://pointerpointer.com/"
-    },
-    {
-        "title": "Your World of Text",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/yourworldoftext.jpg",
-        "description": "text",
-        "url": "https://www.yourworldoftext.com/"
-    },
-    {
-        "title": " http://ascii.designforthe.net/",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/designforthe.jpg",
-        "description": "text",
-        "url": " http://ascii.designforthe.net/"
-    },
-    {
-        "title": "FORM ART COMPETITION",
-        "artist": "Alexei Schulgin",
-        "artistWebsite": "http://www.easylife.org/?",
-        "thumb": "img/formart.jpg",
-        "description": "text",
-        "url": "http://variants.artbase.rhizome.org/Q1249/"
-    },
-    {
-        "title": "Numbers",
-        "artist": "Jon Gacnik",
-        "artistWebsite": "https://jongacnik.com/numbers",
-        "thumb": "img/numbers.jpg",
-        "description": "text",
-        "url": "https://jongacnik.com/numbers"
-    },
-    {
-        "title": "Qubit",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/qubit.jpg",
-        "description": "",
-        "url": "https://x20xx.com/qubit.html"
-    },
-    {
-        "title": "Freeport",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/freeport.jpg",
-        "description": "",
-        "url": "https://x20xx.com/freeport.php"
-    },
-    {
-        "title": "strmsg",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/strmsg.jpg",
-        "description": "",
-        "url": "https://x20xx.com/strmsg/"
-    },
-    {
-        "title": "TimePassed",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/timepassed.jpg",
-        "description": "",
-        "url": "https://x20xx.com/time.html"
-    },
-   
-    {
-        "title": "Hexa",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/hexa.jpg",
-        "description": "",
-        "url": "https://x20xx.com/hexa.html"
-    },
-    {
-        "title": "LargeText",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/largetext.jpg",
-        "description": "",
-        "url": "https://x20xx.com/largetext.html"
-    },
-    {
-        "title": "The End",
-        "artist": "x20xx",
-        "artistWebsite": "https://x20xx.com/",
-        "thumb": "img/theend.jpg",
-        "description": "",
-        "url": "https://x20xx.com/theend.html"
-    },
-    {
-        "title": "010000.org",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/010000.jpg",
-        "description": "",
-        "url": "https://010000.org/"
-    },
-    {
-        "title": "All the Minutes",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/alltheminutes.jpg",
-        "description": "",
-        "url": "http://alltheminutes.com/"
-    },
-    {
-        "title": "clickclickclick",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/click.jpg",
-        "description": "",
-        "url": "https://clickclickclick.click/"
-    },
-    {
-        "title": "baabaa",
-        "artist": "Sam Lavigne",
-        "artistWebsite": "",
-        "thumb": "img/baabaa.jpg",
-        "description": "",
-        "url": "https://antiboredom.github.io/baabaa/index.html"
-    },
-    {
-        "title": "okaygood",
-        "artist": "Drew Wallace",
-        "artistWebsite": "http://drewwallacegames.com/",
-        "thumb": "img/okaygood.jpg",
-        "description": "",
-        "url": "http://drewwallacegames.com/okaygood.html"
-    },
-    {
-        "title": "Click here to save the World",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/save.jpg",
-        "description": "",
-        "url": "https://clickheretosavetheworld.com/"
-    },
-    {
-        "title": "onelongscream.com/",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/ahh.jpg",
-        "description": "",
-        "url": "http://onelongscream.com/"
-    },
-    {
-        "title": "iamtired.online",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/iamtired.jpg",
-        "description": "",
-        "url": "https://iamtired.online/"
-    },
-    {
-        "title": "eelslap.com",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/eel.jpg",
-        "description": "",
-        "url": "http://eelslap.com/"
-    },
-    {
-        "title": "yesnoif",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/yesnoif.jpg",
-        "description": "",
-        "url": "http://www.yesnoif.com/"
-    },
-    {
-        "title": "Endless Horse",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/horse.jpg",
-        "description": "",
-        "url": "http://endless.horse/"
-    },
-    {
-        "title": "Move Now Think Later",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/movenow.jpg",
-        "description": "",
-        "url": "http://www.movenowthinklater.com/"
-    },
-    {
-        "title": "fragmentsin.space",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/fragmentsinspace.jpg",
-        "description": "",
-        "url": "http://fragmentsin.space/"
-    },
-    {
-        "title": "paperstorm.it",
-        "artist": "Studio Moniker",
-        "artistWebsite": "",
-        "thumb": "img/paperstorm.jpg",
-        "description": "",
-        "url": "https://paperstorm.it/"
-    },
-    {
-        "title": "Radio Garden",
-        "artist": "Studio Moniker",
-        "artistWebsite": "",
-        "thumb": "img/radiogarden.jpg",
-        "description": "",
-        "url": "http://radio.garden"
-    },
-    {
-        "title": "http://wwwwwwwww.jodi.org/",
-        "artist": "jodi.org",
-        "artistWebsite": "http://wwwwwwwww.jodi.org/",
-        "thumb": "img/jodiorg.jpg",
-        "description": "",
-        "url": "http://wwwwwwwww.jodi.org/"
-    },{
-        "title": "idn.jodi.org/",
-        "artist": "jodi.org",
-        "artistWebsite": "http://wwwwwwwww.jodi.org/",
-        "thumb": "img/idnjodi.jpg",
-        "description": "",
-        "url": "http://idn.jodi.org/"
-    },{
-        "title": "The Expanding Universe",
-        "artist": "Dimitris Gkikas",
-        "artistWebsite": "https://folder-one.eu/",
-        "thumb": "img/sxpandinguniverse.jpg",
-        "description": "",
-        "url": "https://folder-one.eu/23.15/"
-    },{
-        "title": "The Bible as a Hyperlink",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/bible.jpg",
-        "description": "",
-        "url": "http://www.thebibleasahyperlink.com/"
-    },{
-        "title": "Scrollbar Composition",
-        "artist": false,
-        "artistWebsite": false,
-        "thumb": "img/scrollbarcomposition.jpg",
-        "description": "",
-        "url": "http://www.scrollbarcomposition.com/"
-    },{
-        "title": "hoera.samenschool.org/",
-        "artist": "Vincent Van Dijck",
-        "artistWebsite": false,
-        "thumb": "img/hoera.jpg",
-        "description": "",
-        "url": "https://hoera.samenschool.org/"
-    },{
-        "title": "Roomtones",
-        "artist": "Vincent Van Dijck",
-        "artistWebsite": false,
-        "thumb": "img/roomtones.jpg",
-        "description": "",
-        "url": "https://roomtones.massa.media/"
-    },{
-        "title": "Reflect",
-        "artist": "Tim Rodenbröker",
-        "artistWebsite": false,
-        "thumb": "img/reflect.jpg",
-        "description": "",
-        "url": "https://timrodenbroeker.github.io/reflect/"
-    },{
-        "title": "The Wave",
-        "artist": "Tim Rodenbröker",
-        "artistWebsite": false,
-        "thumb": "img/thewave.jpg",
-        "description": "The Wave is an interactive, audiovisual experience built with p5.js.",
-        "url": "https://timrodenbroeker.github.io/thewave/"
-    },{
-        "title": "The Grid",
-        "artist": "Tim Rodenbröker",
-        "artistWebsite": false,
-        "thumb": "img/grid.jpg",
-        "description": "",
-        "url": "https://timrodenbroeker.github.io/the-grid/"
-    },{
-        "title": "Indirect Flights",
-        "artist": "Joe Hamilton",
-        "artistWebsite": "https://joehamilton.info",
-        "thumb": "img/indirectflights.jpg",
-        "description": "",
-        "url": "https://indirect.flights/"
-    }
-    
-    
+  {
+    "title": "a mute interface",
+    "artist": "Annie Abrahams",
+    "artistWebsite": "https://aabrahams.wordpress.com/",
+    "thumb": false,
+    "description": false,
+    "url": "https://www.bram.org/interface/"
+  },
+  {
+    "title": "",
+    "artist": "sara sujireia",
+    "artistWebsite": false,
+    "thumb": false,
+    "description": false,
+    "url": "https://comcomcomcomcomcomcomcomcomcomcomcomcom.online/noicaerc-ed-otca/"
+  },
+  {
+    "title": "antipedia.net",
+    "artist": "Floor Vanden Berghe",
+    "artistWebsite": "www.floorvandenberghe.be",
+    "thumb": false,
+    "description": false,
+    "url": "http://www.antipedia.net/"
+  },
+  {
+    "title": "Time_Code_Time_Painting",
+    "artist": "Max Frischknecht",
+    "artistWebsite": "https://maxfrischknecht.ch/",
+    "thumb": false,
+    "description": false,
+    "url": "https://maxfrischknecht.github.io/Time_Code_Time_Painting/"
+  },
+  {
+    "title": "all-eyes-on-me.watch ",
+    "artist": "RULES RULES RULES",
+    "artistWebsite": "https://rulesrulesrules.studio/",
+    "thumb": false,
+    "description": "a websites that keeps eye contact with you",
+    "url": "http://all-eyes-on-me.watch/"
+  },
+  {
+    "title": "the-distant-past.xyz",
+    "artist": "RULES RULES RULES",
+    "artistWebsite": "https://rulesrulesrules.studio/",
+    "thumb": false,
+    "description": "a website that lets you leave something behind for the next visitor",
+    "url": "https://the-distant-past.xyz/"
+  },
+  {
+    "title": "give-and-take.download",
+    "artist": "RULES RULES RULES",
+    "artistWebsite": "https://rulesrulesrules.studio/",
+    "thumb": false,
+    "description": "a website that lets you leave something behind for the next visitor",
+    "url": "https://give-and-take.download/"
+  },
+  {
+    "title": "inner-values.report",
+    "artist": "RULES RULES RULES",
+    "artistWebsite": "https://rulesrulesrules.studio/",
+    "thumb": false,
+    "description": "a website that is just its analytics report",
+    "url": "http://inner-values.report/"
+  },
+  {
+    "title": "Get Well Soon",
+    "artist": "Tega Brain",
+    "artistWebsite": "http://tegabrain.com/",
+    "thumb": "img/getwellsoon.jpg",
+    "description": "text",
+    "url": "http://getwellsoon.labr.io/"
+  },
+  {
+    "title": "Only Suddenly",
+    "artist": "Rafa&#235;l Rozendaal",
+    "artistWebsite": "https://www.newrafael.com/",
+    "thumb": "img/onlysuddenly.jpg",
+    "description": "text",
+    "url": "http://www.onlysuddenly.com/"
+  },
+  {
+    "title": "Everything you see is in the past",
+    "artist": "Rafa&#235;l Rozendaal",
+    "artistWebsite": "https://www.newrafael.com/",
+    "thumb": "img/everythingyouseeis.jpg",
+    "description": "text",
+    "url": "http://www.everythingyouseeisinthepast.com/"
+  },
+  {
+    "title": "Automatic Rain",
+    "artist": "jodi.org",
+    "artistWebsite": "https://jodi.org",
+    "thumb": "img/autorain.jpg",
+    "description": "text",
+    "url": "http://wwwwwwwww.jodi.org/betalab/rain/index.html"
+  },
+  {
+    "title": "https://t-e-l-e-p-o-r-t.me/",
+    "artist": "Ahmed Ghazi",
+    "artistWebsite": "https://ahmedghazi.com/",
+    "thumb": "img/teleport.jpg",
+    "description": "text",
+    "url": "https://t-e-l-e-p-o-r-t.me/"
+  },
+  {
+    "title": "Pointer Pointer",
+    "artist": "Jonathan Puckey",
+    "artistWebsite": "https://puckey.studio/",
+    "thumb": "img/pointer.jpg",
+    "description": "text",
+    "url": "https://pointerpointer.com/"
+  },
+  {
+    "title": "Your World of Text",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/yourworldoftext.jpg",
+    "description": "text",
+    "url": "https://www.yourworldoftext.com/"
+  },
+  {
+    "title": " http://ascii.designforthe.net/",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/designforthe.jpg",
+    "description": "text",
+    "url": " http://ascii.designforthe.net/"
+  },
+  {
+    "title": "FORM ART COMPETITION",
+    "artist": "Alexei Schulgin",
+    "artistWebsite": "http://www.easylife.org/?",
+    "thumb": "img/formart.jpg",
+    "description": "text",
+    "url": "http://variants.artbase.rhizome.org/Q1249/"
+  },
+  {
+    "title": "Numbers",
+    "artist": "Jon Gacnik",
+    "artistWebsite": "https://jongacnik.com/numbers",
+    "thumb": "img/numbers.jpg",
+    "description": "text",
+    "url": "https://jongacnik.com/numbers"
+  },
+  {
+    "title": "Qubit",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/qubit.jpg",
+    "description": "",
+    "url": "https://x20xx.com/qubit.html"
+  },
+  {
+    "title": "Freeport",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/freeport.jpg",
+    "description": "",
+    "url": "https://x20xx.com/freeport.php"
+  },
+  {
+    "title": "strmsg",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/strmsg.jpg",
+    "description": "",
+    "url": "https://x20xx.com/strmsg/"
+  },
+  {
+    "title": "TimePassed",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/timepassed.jpg",
+    "description": "",
+    "url": "https://x20xx.com/time.html"
+  },
 
-    
-
-   
-
-
-    
-
-    
+  {
+    "title": "Hexa",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/hexa.jpg",
+    "description": "",
+    "url": "https://x20xx.com/hexa.html"
+  },
+  {
+    "title": "LargeText",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/largetext.jpg",
+    "description": "",
+    "url": "https://x20xx.com/largetext.html"
+  },
+  {
+    "title": "The End",
+    "artist": "x20xx",
+    "artistWebsite": "https://x20xx.com/",
+    "thumb": "img/theend.jpg",
+    "description": "",
+    "url": "https://x20xx.com/theend.html"
+  },
+  {
+    "title": "010000.org",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/010000.jpg",
+    "description": "",
+    "url": "https://010000.org/"
+  },
+  {
+    "title": "All the Minutes",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/alltheminutes.jpg",
+    "description": "",
+    "url": "http://alltheminutes.com/"
+  },
+  {
+    "title": "clickclickclick",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/click.jpg",
+    "description": "",
+    "url": "https://clickclickclick.click/"
+  },
+  {
+    "title": "baabaa",
+    "artist": "Sam Lavigne",
+    "artistWebsite": "",
+    "thumb": "img/baabaa.jpg",
+    "description": "",
+    "url": "https://antiboredom.github.io/baabaa/index.html"
+  },
+  {
+    "title": "okaygood",
+    "artist": "Drew Wallace",
+    "artistWebsite": "http://drewwallacegames.com/",
+    "thumb": "img/okaygood.jpg",
+    "description": "",
+    "url": "http://drewwallacegames.com/okaygood.html"
+  },
+  {
+    "title": "Click here to save the World",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/save.jpg",
+    "description": "",
+    "url": "https://clickheretosavetheworld.com/"
+  },
+  {
+    "title": "onelongscream.com/",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/ahh.jpg",
+    "description": "",
+    "url": "http://onelongscream.com/"
+  },
+  {
+    "title": "iamtired.online",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/iamtired.jpg",
+    "description": "",
+    "url": "https://iamtired.online/"
+  },
+  {
+    "title": "eelslap.com",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/eel.jpg",
+    "description": "",
+    "url": "http://eelslap.com/"
+  },
+  {
+    "title": "yesnoif",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/yesnoif.jpg",
+    "description": "",
+    "url": "http://www.yesnoif.com/"
+  },
+  {
+    "title": "Endless Horse",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/horse.jpg",
+    "description": "",
+    "url": "http://endless.horse/"
+  },
+  {
+    "title": "Move Now Think Later",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/movenow.jpg",
+    "description": "",
+    "url": "http://www.movenowthinklater.com/"
+  },
+  {
+    "title": "fragmentsin.space",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/fragmentsinspace.jpg",
+    "description": "",
+    "url": "http://fragmentsin.space/"
+  },
+  {
+    "title": "paperstorm.it",
+    "artist": "Studio Moniker",
+    "artistWebsite": "",
+    "thumb": "img/paperstorm.jpg",
+    "description": "",
+    "url": "https://paperstorm.it/"
+  },
+  {
+    "title": "Radio Garden",
+    "artist": "Studio Moniker",
+    "artistWebsite": "",
+    "thumb": "img/radiogarden.jpg",
+    "description": "",
+    "url": "http://radio.garden"
+  },
+  {
+    "title": "http://wwwwwwwww.jodi.org/",
+    "artist": "jodi.org",
+    "artistWebsite": "http://wwwwwwwww.jodi.org/",
+    "thumb": "img/jodiorg.jpg",
+    "description": "",
+    "url": "http://wwwwwwwww.jodi.org/"
+  },
+  {
+    "title": "idn.jodi.org/",
+    "artist": "jodi.org",
+    "artistWebsite": "http://wwwwwwwww.jodi.org/",
+    "thumb": "img/idnjodi.jpg",
+    "description": "",
+    "url": "http://idn.jodi.org/"
+  },
+  {
+    "title": "The Expanding Universe",
+    "artist": "Dimitris Gkikas",
+    "artistWebsite": "https://folder-one.eu/",
+    "thumb": "img/sxpandinguniverse.jpg",
+    "description": "",
+    "url": "https://folder-one.eu/23.15/"
+  },
+  {
+    "title": "The Bible as a Hyperlink",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/bible.jpg",
+    "description": "",
+    "url": "http://www.thebibleasahyperlink.com/"
+  },
+  {
+    "title": "Scrollbar Composition",
+    "artist": false,
+    "artistWebsite": false,
+    "thumb": "img/scrollbarcomposition.jpg",
+    "description": "",
+    "url": "http://www.scrollbarcomposition.com/"
+  },
+  {
+    "title": "hoera.samenschool.org/",
+    "artist": "Vincent Van Dijck",
+    "artistWebsite": false,
+    "thumb": "img/hoera.jpg",
+    "description": "",
+    "url": "https://hoera.samenschool.org/"
+  },
+  {
+    "title": "Roomtones",
+    "artist": "Vincent Van Dijck",
+    "artistWebsite": false,
+    "thumb": "img/roomtones.jpg",
+    "description": "",
+    "url": "https://roomtones.massa.media/"
+  },
+  {
+    "title": "Reflect",
+    "artist": "Tim Rodenbröker",
+    "artistWebsite": false,
+    "thumb": "img/reflect.jpg",
+    "description": "",
+    "url": "https://timrodenbroeker.github.io/reflect/"
+  },
+  {
+    "title": "The Wave",
+    "artist": "Tim Rodenbröker",
+    "artistWebsite": false,
+    "thumb": "img/thewave.jpg",
+    "description": "The Wave is an interactive, audiovisual experience built with p5.js.",
+    "url": "https://timrodenbroeker.github.io/thewave/"
+  },
+  {
+    "title": "The Grid",
+    "artist": "Tim Rodenbröker",
+    "artistWebsite": false,
+    "thumb": "img/grid.jpg",
+    "description": "",
+    "url": "https://timrodenbroeker.github.io/the-grid/"
+  },
+  {
+    "title": "Indirect Flights",
+    "artist": "Joe Hamilton",
+    "artistWebsite": "https://joehamilton.info",
+    "thumb": "img/indirectflights.jpg",
+    "description": "",
+    "url": "https://indirect.flights/"
+  }
 ]
-
-
