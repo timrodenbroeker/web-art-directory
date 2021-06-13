@@ -1,5 +1,29 @@
 [
   {
+    "title": "otherti.me",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "Hack of the popular video game concept Snake. In this implementation, an opening allows the snake to escape from the game level.",
+    "url": "https://raphaelbastide.com/free-snake/"
+  },
+  {
+    "title": "otherti.me",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "One online artwork a day for 30 days, starting 16th of november 2019",
+    "url": "https://otherti.me/"
+  },
+  {
+    "title": "evasive.tech",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "Daily artworks in quarantine times",
+    "url": "https://evasive.tech/"
+  },
+  {
     "title": "Déclin Séquence",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
