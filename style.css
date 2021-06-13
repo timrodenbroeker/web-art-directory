@@ -15,10 +15,10 @@ body {
 }
 
 p {
-  line-height: 110%;
+  line-height: 120%;
 }
 .lead {
-  line-height: 110%;
+  line-height: 120%;
 }
 
 ul {
@@ -123,6 +123,10 @@ h1,
   font-size: calc(16px + 2vw);
 }
 
+.meta {
+  font-size: 16px;
+}
+
 #logo {
   width: 400px;
 }
@@ -209,6 +213,10 @@ body.modalActive #silk {
   padding: 25px;
 }
 
+#modalContent .lead {
+  margin-bottom: 10px;
+}
+
 body.modalActive #modal {
   right: 0;
 }
@@ -220,6 +228,8 @@ body.modalActive #modal {
   border-radius: 25px;
   color: white;
   transition: background-color 0.4s ease;
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .btn:hover {
@@ -313,4 +323,8 @@ header {
 .browser-mockup {
   margin: 2em;
   flex: 1;
+}
+
+.m-top-15 {
+  margin-top: 15px;
 }

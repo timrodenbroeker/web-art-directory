@@ -4,7 +4,7 @@
     "artist": "Kim Asendorf",
     "artistWebsite": "http://kimasendorf.com/",
     "thumb": "gifmarket.png",
-    "description": "",
+    "description": false,
     "url": "http://variants.artbase.rhizome.org/Q1653/gifmarket.net/"
   },
   {
@@ -156,23 +156,23 @@
     "artist": "Tega Brain",
     "artistWebsite": "http://tegabrain.com/",
     "thumb": "getwellsoon.jpg",
-    "description": "text",
+    "description": false,
     "url": "http://getwellsoon.labr.io/"
   },
   {
     "title": "Only Suddenly",
-    "artist": "Rafa&#235;l Rozendaal",
+    "artist": "Rafaël Rozendaal",
     "artistWebsite": "https://www.newrafael.com/",
     "thumb": "onlysuddenly.jpg",
-    "description": "text",
+    "description": false,
     "url": "http://www.onlysuddenly.com/"
   },
   {
     "title": "Everything you see is in the past",
-    "artist": "Rafa&#235;l Rozendaal",
+    "artist": "Rafaël Rozendaal",
     "artistWebsite": "https://www.newrafael.com/",
     "thumb": "everythingyouseeis.jpg",
-    "description": "text",
+    "description": false,
     "url": "http://www.everythingyouseeisinthepast.com/"
   },
   {
@@ -180,7 +180,7 @@
     "artist": "jodi.org",
     "artistWebsite": "https://jodi.org",
     "thumb": "autorain.jpg",
-    "description": "text",
+    "description": false,
     "url": "http://wwwwwwwww.jodi.org/betalab/rain/index.html"
   },
   {
@@ -188,7 +188,7 @@
     "artist": "Ahmed Ghazi",
     "artistWebsite": "https://ahmedghazi.com/",
     "thumb": "teleport.jpg",
-    "description": "text",
+    "description": false,
     "url": "https://t-e-l-e-p-o-r-t.me/"
   },
   {
@@ -196,7 +196,7 @@
     "artist": "Jonathan Puckey",
     "artistWebsite": "https://puckey.studio/",
     "thumb": "pointer.jpg",
-    "description": "text",
+    "description": false,
     "url": "https://pointerpointer.com/"
   },
   {
@@ -204,7 +204,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "yourworldoftext.jpg",
-    "description": "text",
+    "description": false,
     "url": "https://www.yourworldoftext.com/"
   },
   {
@@ -212,7 +212,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "designforthe.jpg",
-    "description": "text",
+    "description": false,
     "url": " http://ascii.designforthe.net/"
   },
   {
@@ -220,7 +220,7 @@
     "artist": "Alexei Schulgin",
     "artistWebsite": "http://www.easylife.org/?",
     "thumb": "formart.jpg",
-    "description": "text",
+    "description": false,
     "url": "http://variants.artbase.rhizome.org/Q1249/"
   },
   {
@@ -228,7 +228,7 @@
     "artist": "Jon Gacnik",
     "artistWebsite": "https://jongacnik.com/numbers",
     "thumb": "numbers.jpg",
-    "description": "text",
+    "description": false,
     "url": "https://jongacnik.com/numbers"
   },
   {
@@ -236,7 +236,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "qubit.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/qubit.html"
   },
   {
@@ -244,7 +244,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "freeport.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/freeport.php"
   },
   {
@@ -252,7 +252,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "strmsg.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/strmsg/"
   },
   {
@@ -260,7 +260,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "timepassed.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/time.html"
   },
 
@@ -269,7 +269,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "hexa.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/hexa.html"
   },
   {
@@ -277,7 +277,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "largetext.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/largetext.html"
   },
   {
@@ -285,7 +285,7 @@
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
     "thumb": "theend.jpg",
-    "description": "",
+    "description": false,
     "url": "https://x20xx.com/theend.html"
   },
   {
@@ -293,7 +293,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "010000.jpg",
-    "description": "",
+    "description": false,
     "url": "https://010000.org/"
   },
   {
@@ -301,7 +301,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "alltheminutes.jpg",
-    "description": "",
+    "description": false,
     "url": "http://alltheminutes.com/"
   },
   {
@@ -309,7 +309,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "click.jpg",
-    "description": "",
+    "description": false,
     "url": "https://clickclickclick.click/"
   },
   {
@@ -317,7 +317,7 @@
     "artist": "Sam Lavigne",
     "artistWebsite": "",
     "thumb": "baabaa.jpg",
-    "description": "",
+    "description": false,
     "url": "https://antiboredom.github.io/baabaa/index.html"
   },
   {
@@ -325,7 +325,7 @@
     "artist": "Drew Wallace",
     "artistWebsite": "http://drewwallacegames.com/",
     "thumb": "okaygood.jpg",
-    "description": "",
+    "description": false,
     "url": "http://drewwallacegames.com/okaygood.html"
   },
   {
@@ -333,7 +333,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "save.jpg",
-    "description": "",
+    "description": false,
     "url": "https://clickheretosavetheworld.com/"
   },
   {
@@ -341,7 +341,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "ahh.jpg",
-    "description": "",
+    "description": false,
     "url": "http://onelongscream.com/"
   },
   {
@@ -349,7 +349,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "iamtired.jpg",
-    "description": "",
+    "description": false,
     "url": "https://iamtired.online/"
   },
   {
@@ -357,15 +357,15 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "eel.jpg",
-    "description": "",
+    "description": false,
     "url": "http://eelslap.com/"
   },
   {
     "title": "yesnoif",
-    "artist": false,
-    "artistWebsite": false,
+    "artist": "Rafaël Rozendaal",
+    "artistWebsite": "https://www.newrafael.com/",
     "thumb": "yesnoif.jpg",
-    "description": "",
+    "description": false,
     "url": "http://www.yesnoif.com/"
   },
   {
@@ -373,7 +373,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "horse.jpg",
-    "description": "",
+    "description": false,
     "url": "http://endless.horse/"
   },
   {
@@ -381,7 +381,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "movenow.jpg",
-    "description": "",
+    "description": false,
     "url": "http://www.movenowthinklater.com/"
   },
   {
@@ -389,7 +389,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "fragmentsinspace.jpg",
-    "description": "",
+    "description": false,
     "url": "http://fragmentsin.space/"
   },
   {
@@ -397,7 +397,7 @@
     "artist": "Studio Moniker",
     "artistWebsite": "",
     "thumb": "paperstorm.jpg",
-    "description": "",
+    "description": false,
     "url": "https://paperstorm.it/"
   },
   {
@@ -405,7 +405,7 @@
     "artist": "Studio Moniker",
     "artistWebsite": "",
     "thumb": "radiogarden.jpg",
-    "description": "",
+    "description": false,
     "url": "http://radio.garden"
   },
   {
@@ -413,7 +413,7 @@
     "artist": "jodi.org",
     "artistWebsite": "http://wwwwwwwww.jodi.org/",
     "thumb": "jodiorg.jpg",
-    "description": "",
+    "description": false,
     "url": "http://wwwwwwwww.jodi.org/"
   },
   {
@@ -421,7 +421,7 @@
     "artist": "jodi.org",
     "artistWebsite": "http://wwwwwwwww.jodi.org/",
     "thumb": "idnjodi.jpg",
-    "description": "",
+    "description": false,
     "url": "http://idn.jodi.org/"
   },
   {
@@ -429,7 +429,7 @@
     "artist": "Dimitris Gkikas",
     "artistWebsite": "https://folder-one.eu/",
     "thumb": "sxpandinguniverse.jpg",
-    "description": "",
+    "description": false,
     "url": "https://folder-one.eu/23.15/"
   },
   {
@@ -437,7 +437,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "bible.jpg",
-    "description": "",
+    "description": false,
     "url": "http://www.thebibleasahyperlink.com/"
   },
   {
@@ -445,7 +445,7 @@
     "artist": false,
     "artistWebsite": false,
     "thumb": "scrollbarcomposition.jpg",
-    "description": "",
+    "description": false,
     "url": "http://www.scrollbarcomposition.com/"
   },
   {
@@ -453,7 +453,7 @@
     "artist": "Vincent Van Dijck",
     "artistWebsite": false,
     "thumb": "hoera.jpg",
-    "description": "",
+    "description": false,
     "url": "https://hoera.samenschool.org/"
   },
   {
@@ -461,7 +461,7 @@
     "artist": "Vincent Van Dijck",
     "artistWebsite": false,
     "thumb": "roomtones.jpg",
-    "description": "",
+    "description": false,
     "url": "https://roomtones.massa.media/"
   },
   {
@@ -469,7 +469,7 @@
     "artist": "Tim Rodenbröker",
     "artistWebsite": false,
     "thumb": "reflect.jpg",
-    "description": "",
+    "description": false,
     "url": "https://timrodenbroeker.github.io/reflect/"
   },
   {
@@ -485,7 +485,7 @@
     "artist": "Tim Rodenbröker",
     "artistWebsite": false,
     "thumb": "grid.jpg",
-    "description": "",
+    "description": false,
     "url": "https://timrodenbroeker.github.io/the-grid/"
   },
   {
@@ -493,7 +493,7 @@
     "artist": "Joe Hamilton",
     "artistWebsite": "https://joehamilton.info",
     "thumb": "indirectflights.jpg",
-    "description": "",
+    "description": false,
     "url": "https://indirect.flights/"
   }
 ]

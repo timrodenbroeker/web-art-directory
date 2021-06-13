@@ -54,17 +54,21 @@ function populizeModal(index) {
   modalContent.innerHTML = "";
 
   let title = document.createElement("h2");
+  title.classList.add("lead");
   title.innerHTML = dataItem.title;
   modalContent.appendChild(title);
 
   if (dataItem.artist != false) {
-    let by = document.createElement("p");
-    by.append("By ");
-    by.append(dataItem.artist);
-    modalContent.appendChild(by);
+    if (dataItem.artistWebsite != false) {
+      let by = `<p class="meta">by <a href="${dataItem.artistWebsite}" target="_blank">${dataItem.artist}</a></p>`;
+      modalContent.insertAdjacentHTML("beforeend", by);
+    } else {
+      let by = `<p class="meta">by ${dataItem.artist}</p>`;
+      modalContent.insertAdjacentHTML("beforeend", by);
+    }
   }
 
-  if (dataItem.desc != false) {
+  if (dataItem.description != false) {
     let desc = document.createElement("p");
     desc.append(dataItem.description);
     modalContent.appendChild(desc);
@@ -74,6 +78,7 @@ function populizeModal(index) {
   button.setAttribute("href", dataItem.url);
   button.setAttribute("target", "_blank");
   button.classList.add("btn");
+  button.classList.add("m-top-15");
   button.innerHTML = "Launch";
   modalContent.appendChild(button);
 }
