@@ -19,7 +19,7 @@
     "title": "worldwidewelcome",
     "artist": "Studio Harris Blondman",
     "artistWebsite": "http://www.harrisblondman.nl/",
-    "thumb": false,
+    "thumb": "img/wwwelcome.png",
     "description": false,
     "url": "http://worldwidewelcome.harrisblondman.nl/"
   },
@@ -67,7 +67,7 @@
     "title": "Snow on GPU",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": false,
+    "thumb": "img/snowongpu.png",
     "description": "Artist Statement: A Graphics Processing Unit (GPU), is an electronic circuit specialized in rendering computer graphics. GPU cards can be also used to mine (validate blockchain-based transactions) cryptocurrencies and more recently, cryptoart. Snow on GPU confronts a popular web script -HTML asterisks falling down the screen- until they melt approaching the GPU location of a laptop. Your computer may heat a bit, that’s part of the piece.",
     "url": "https://snow-on-gpu.online/"
   },
@@ -75,7 +75,7 @@
     "title": "a mute interface",
     "artist": "Yotam Mann and Sarah Rothberg",
     "artistWebsite": "https://yotammann.info/",
-    "thumb": false,
+    "thumb": "img/muteinterface.png",
     "description": false,
     "url": "http://jazz.computer/"
   },
