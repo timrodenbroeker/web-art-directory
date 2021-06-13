@@ -35,9 +35,9 @@ function prepareHTML(data) {
 
     let img = document.createElement("img");
     if (dataItem.thumb != false) {
-      img.src = `./media/imgProcessed/${dataItem.thumb}`;
+      img.src = `./img/${dataItem.thumb}`;
     } else {
-      img.src = "./media/imgProcessed/nothumb.jpg";
+      img.src = "./img/nothumb.jpg";
     }
 
     item.appendChild(img);

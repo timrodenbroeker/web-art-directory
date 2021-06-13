@@ -37,9 +37,9 @@ function populizeModal(index) {
   imgLink.setAttribute("target", "_blank");
 
   if (dataItem.thumb != false) {
-    img.src = `./media/imgProcessed/${dataItem.thumb}`;
+    img.src = `./img/${dataItem.thumb}`;
   } else {
-    img.src = "./media/imgProcessed/nothumb.jpg";
+    img.src = "./img/nothumb.jpg";
   }
 
   imgLink.appendChild(img);

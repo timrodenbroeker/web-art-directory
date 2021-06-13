@@ -1,5 +1,5 @@
 import java.io.File;
-String [] imageFileNames;
+String[] imageFileNames;
 ArrayList images;
 
 PGraphics pg;
@@ -9,28 +9,26 @@ final String sketchName = getClass().getName();
 void setup() {
 
   size(800, 500 );
-  java.io.File folder = new java.io.File(dataPath("../../img"));
+  java.io.File folder = new java.io.File(dataPath("./"));
   imageFileNames = folder.list();
 
   println("loading...");
   // Load the image-files and push thems to imagess-arrayList
-
-
 
   println(imageFileNames.length + " images");
   pg = createGraphics(width, height);
   background(#f1f1f1);
   fill(#2000a1);
   noStroke();
-  for (int i = 0; i < imageFileNames.length; i++) {
-  }
+
 }
 
 void draw() {
   background(#f1f1f1);
 noStroke();
 fill(#2000a1);
-  if (frameCount < imageFileNames.length) {
+  if (frameCount < imageFileNames.length+1) {
+    
     PImage img = loadImage(imageFileNames[frameCount-1]);
     img.resize(width, height);
     float tilesX = 200; 
@@ -38,8 +36,6 @@ fill(#2000a1);
 
     float tileW = width/ tilesX;
     float tileH = height/ tilesY;
-
-
 
     for (int x = 0; x < tilesX; x++) {
       for (int y = 0; y < tilesY; y++) {
@@ -55,7 +51,7 @@ fill(#2000a1);
         pop();
       }
     }
-    saveFrame("../imgProcessed/" + imageFileNames[frameCount-1]);
+    saveFrame("../img/" + imageFileNames[frameCount-1]);
   } else {
     exit();
   }
