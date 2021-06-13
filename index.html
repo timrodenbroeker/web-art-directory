@@ -1,58 +1,57 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
-<head>
-  <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
 
-  <title>WEB-ART-DIRECTORY</title>
-  <meta name="description" content="WEB-ART-DIRECTORY">
-  <meta property="og:image" content="img/og.jpg" />
-  <meta name="author" content="SitePoint">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" href="style.css?v=1.0">
+    <title>WEB-ART-DIRECTORY</title>
+    <meta name="description" content="WEB-ART-DIRECTORY" />
+    <meta property="og:image" content="img/og.jpg" />
+    <meta name="author" content="SitePoint" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <link rel="stylesheet" href="style.css?v=1.0" />
+  </head>
 
-</head>
+  <body>
+    <header class="p15">
+      <p class="lead">
+        This is the <span style="color: black">WEB-ART-DIRECTORY</span>, a
+        curated collection of conceptual artworks built with
+        web-tech&shy;nologies.
+      </p>
+      <p>
+        <a class="btn" id="learnMore">Learn more</a>
+        <a
+          class="btn"
+          href="mailto:timrodenbroeker@gmail.com?subject=WEB-ART-DIRECTORY"
+        >
+          Submit
+        </a>
+      </p>
+    </header>
 
-<body>
-  
-  <header class="p15">
+    <section class="p15" id="theGrid"></section>
 
-    <p class="lead">
-      This is the <span style="color: black;">WEB-ART-DIRECTORY</span>, a curated collection of conceptual artworks built with web-tech&shy;nologies.
-    </p>
-    <p>
-      <a class="btn" id="learnMore">Learn more</a>
-      <a class="btn" href="mailto:timrodenbroeker@gmail.com?subject=WEB-ART-DIRECTORY">
-        Submit
-      </a>
-    
-    </p>
+    <div id="silk"></div>
 
- 
-</header>
-
-  <section class="p15" id="theGrid">
-  </section>
-
-  <div id="silk">
-  </div>
-
-  <div id="modal">
-    <div id="modalHeader">
-
+    <div id="modal">
+      <div id="modalHeader"></div>
+      <div id="modalContent"></div>
     </div>
-    <div id="modalContent"></div>
-  </div>
 
-  <div id="preloader">
-    <p style="color: white;">WEB-ART-DIRECTORY</p>
-  </div>
+    <div id="preloader">
+      <p style="color: white">WEB-ART-DIRECTORY</p>
+    </div>
 
-  <div class="p15">
-    <a target="_blank" href="imprint.html">Legal Notice / Imprint</a>
-  </div>
+    <div class="p15">
+      <a target="_blank" href="imprint.html">Legal Notice / Imprint</a>
+    </div>
 
-  <script src="app.js"></script>
-  
-</body>
+    <script src="./js/index.js"></script>
+    <script src="./js/modal.js"></script>
+    <script src="./js/preloader.js"></script>
+  </body>
 </html>

@@ -3,7 +3,7 @@
     "title": "Mirrors",
     "artist": "Tim Rodenbröker",
     "artistWebsite": "https://timrodenbroeker.de",
-    "thumb": "imgProcessed/mirrors.png",
+    "thumb": "mirrors.png",
     "description": "This project was created in summer 2020 during my master studies at the University of Applied Sciences Bielefeld (study field <i>Digital Media and Experiment</i>). Complementary to the digital works of the web-based exhibition <i>In This Layered World All Perception Is Real</i> of the Bielefelder Kunstverein we were commissoned to develop artistic reactions. So the aim was to interpret the works in the exhibition and to respond to them artistically.",
     "url": "https://timrodenbroeker.de/apps/mirrors/"
   },
@@ -11,7 +11,7 @@
     "title": "Physics of Beauty",
     "artist": "",
     "artistWebsite": "",
-    "thumb": "imgProcessed/physics.png",
+    "thumb": "physics.png",
     "description": false,
     "url": "https://physicsofbeauty.art/"
   },
@@ -19,7 +19,7 @@
     "title": "worldwidewelcome",
     "artist": "Studio Harris Blondman",
     "artistWebsite": "http://www.harrisblondman.nl/",
-    "thumb": "imgProcessed/wwwelcome.png",
+    "thumb": "wwwelcome.png",
     "description": false,
     "url": "http://worldwidewelcome.harrisblondman.nl/"
   },
@@ -27,7 +27,7 @@
     "title": "Free Snake",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/freesnake.png",
+    "thumb": "freesnake.png",
     "description": "Hack of the popular video game concept Snake. In this implementation, an opening allows the snake to escape from the game level.",
     "url": "https://raphaelbastide.com/free-snake/"
   },
@@ -35,7 +35,7 @@
     "title": "otherti.me",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/othertime.png",
+    "thumb": "othertime.png",
     "description": "One online artwork a day for 30 days, starting 16th of november 2019",
     "url": "https://otherti.me/"
   },
@@ -43,7 +43,7 @@
     "title": "evasive.tech",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/evasivw.png",
+    "thumb": "evasivw.png",
     "description": "Daily artworks in quarantine times",
     "url": "https://evasive.tech/"
   },
@@ -51,7 +51,7 @@
     "title": "Déclin Séquence",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/declin.png",
+    "thumb": "declin.png",
     "description": "Artist Statement: Version based composition developed each day of October 2020. The page is made of 31 <time> elements, that gets individually styled day after day. Visitors can use the slider to select a specific day, or the play button to auto browse the sequences one after the other.",
     "url": "https://declin-sequence.neocities.org/"
   },
@@ -59,7 +59,7 @@
     "title": "empathi.cc",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/empathy.png",
+    "thumb": "empathy.png",
     "description": "Artist Statement: The ability to understand and share other people’s feelings and problems is known as empathy. On the web page empathi.cc is a graphic element which can be moved and can mimic visual attributes from its neighbours. The style transfer between the page’s elements can be considered as a minimal version of empathy, where the distance between objects triggers visual mutations. Consequently, the main graphic element gets affected by an accumulating memory of style properties depending on its path. Created for the online group show Come Closer, curated by Anne Schwanz.",
     "url": "https://empathi.cc/"
   },
@@ -67,7 +67,7 @@
     "title": "Snow on GPU",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": "imgProcessed/snowongpu.png",
+    "thumb": "snowongpu.png",
     "description": "Artist Statement: A Graphics Processing Unit (GPU), is an electronic circuit specialized in rendering computer graphics. GPU cards can be also used to mine (validate blockchain-based transactions) cryptocurrencies and more recently, cryptoart. Snow on GPU confronts a popular web script -HTML asterisks falling down the screen- until they melt approaching the GPU location of a laptop. Your computer may heat a bit, that’s part of the piece.",
     "url": "https://snow-on-gpu.online/"
   },
@@ -75,7 +75,7 @@
     "title": "Jazz Computer",
     "artist": "Yotam Mann and Sarah Rothberg",
     "artistWebsite": "https://yotammann.info/",
-    "thumb": "imgProcessed/jazzcomputer.png",
+    "thumb": "jazzcomputer.png",
     "description": false,
     "url": "http://jazz.computer/"
   },
@@ -83,7 +83,7 @@
     "title": "a mute interface",
     "artist": "Annie Abrahams",
     "artistWebsite": "https://aabrahams.wordpress.com/",
-    "thumb": "imgProcessed/muteinterface.png",
+    "thumb": "muteinterface.png",
     "description": false,
     "url": "https://www.bram.org/interface/"
   },
@@ -91,7 +91,7 @@
     "title": "",
     "artist": "sara sujireia",
     "artistWebsite": false,
-    "thumb": "imgProcessed/saras.png",
+    "thumb": "saras.png",
     "description": false,
     "url": "https://comcomcomcomcomcomcomcomcomcomcomcomcom.online/noicaerc-ed-otca/"
   },
@@ -99,7 +99,7 @@
     "title": "antipedia.net",
     "artist": "Floor Vanden Berghe",
     "artistWebsite": "www.floorvandenberghe.be",
-    "thumb": "imgProcessed/antipedia.png",
+    "thumb": "antipedia.png",
     "description": false,
     "url": "http://www.antipedia.net/"
   },
@@ -107,7 +107,7 @@
     "title": "time painting",
     "artist": "Max Frischknecht",
     "artistWebsite": "https://maxfrischknecht.ch/",
-    "thumb": "imgProcessed/timepainting.png",
+    "thumb": "timepainting.png",
     "description": false,
     "url": "https://maxfrischknecht.github.io/Time_Code_Time_Painting/"
   },
@@ -115,7 +115,7 @@
     "title": "all-eyes-on-me.watch ",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": "imgProcessed/alleyes.png",
+    "thumb": "alleyes.png",
     "description": "a websites that keeps eye contact with you",
     "url": "http://all-eyes-on-me.watch/"
   },
@@ -123,7 +123,7 @@
     "title": "the-distant-past.xyz",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": "imgProcessed//distantpast.png",
+    "thumb": "/distantpast.png",
     "description": "a website that lets you leave something behind for the next visitor",
     "url": "https://the-distant-past.xyz/"
   },
@@ -131,7 +131,7 @@
     "title": "give-and-take.download",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": "imgProcessed/givedownload.png",
+    "thumb": "givedownload.png",
     "description": "a website that lets you leave something behind for the next visitor",
     "url": "https://give-and-take.download/"
   },
@@ -139,7 +139,7 @@
     "title": "inner-values.report",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": "imgProcessed/innervalues.png",
+    "thumb": "innervalues.png",
     "description": "a website that is just its analytics report",
     "url": "http://inner-values.report/"
   },
@@ -147,7 +147,7 @@
     "title": "Get Well Soon",
     "artist": "Tega Brain",
     "artistWebsite": "http://tegabrain.com/",
-    "thumb": "imgProcessed/getwellsoon.jpg",
+    "thumb": "getwellsoon.jpg",
     "description": "text",
     "url": "http://getwellsoon.labr.io/"
   },
@@ -155,7 +155,7 @@
     "title": "Only Suddenly",
     "artist": "Rafa&#235;l Rozendaal",
     "artistWebsite": "https://www.newrafael.com/",
-    "thumb": "imgProcessed/onlysuddenly.jpg",
+    "thumb": "onlysuddenly.jpg",
     "description": "text",
     "url": "http://www.onlysuddenly.com/"
   },
@@ -163,7 +163,7 @@
     "title": "Everything you see is in the past",
     "artist": "Rafa&#235;l Rozendaal",
     "artistWebsite": "https://www.newrafael.com/",
-    "thumb": "imgProcessed/everythingyouseeis.jpg",
+    "thumb": "everythingyouseeis.jpg",
     "description": "text",
     "url": "http://www.everythingyouseeisinthepast.com/"
   },
@@ -171,7 +171,7 @@
     "title": "Automatic Rain",
     "artist": "jodi.org",
     "artistWebsite": "https://jodi.org",
-    "thumb": "imgProcessed/autorain.jpg",
+    "thumb": "autorain.jpg",
     "description": "text",
     "url": "http://wwwwwwwww.jodi.org/betalab/rain/index.html"
   },
@@ -179,7 +179,7 @@
     "title": "https://t-e-l-e-p-o-r-t.me/",
     "artist": "Ahmed Ghazi",
     "artistWebsite": "https://ahmedghazi.com/",
-    "thumb": "imgProcessed/teleport.jpg",
+    "thumb": "teleport.jpg",
     "description": "text",
     "url": "https://t-e-l-e-p-o-r-t.me/"
   },
@@ -187,7 +187,7 @@
     "title": "Pointer Pointer",
     "artist": "Jonathan Puckey",
     "artistWebsite": "https://puckey.studio/",
-    "thumb": "imgProcessed/pointer.jpg",
+    "thumb": "pointer.jpg",
     "description": "text",
     "url": "https://pointerpointer.com/"
   },
@@ -195,7 +195,7 @@
     "title": "Your World of Text",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/yourworldoftext.jpg",
+    "thumb": "yourworldoftext.jpg",
     "description": "text",
     "url": "https://www.yourworldoftext.com/"
   },
@@ -203,7 +203,7 @@
     "title": " http://ascii.designforthe.net/",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/designforthe.jpg",
+    "thumb": "designforthe.jpg",
     "description": "text",
     "url": " http://ascii.designforthe.net/"
   },
@@ -211,7 +211,7 @@
     "title": "FORM ART COMPETITION",
     "artist": "Alexei Schulgin",
     "artistWebsite": "http://www.easylife.org/?",
-    "thumb": "imgProcessed/formart.jpg",
+    "thumb": "formart.jpg",
     "description": "text",
     "url": "http://variants.artbase.rhizome.org/Q1249/"
   },
@@ -219,7 +219,7 @@
     "title": "Numbers",
     "artist": "Jon Gacnik",
     "artistWebsite": "https://jongacnik.com/numbers",
-    "thumb": "imgProcessed/numbers.jpg",
+    "thumb": "numbers.jpg",
     "description": "text",
     "url": "https://jongacnik.com/numbers"
   },
@@ -227,7 +227,7 @@
     "title": "Qubit",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/qubit.jpg",
+    "thumb": "qubit.jpg",
     "description": "",
     "url": "https://x20xx.com/qubit.html"
   },
@@ -235,7 +235,7 @@
     "title": "Freeport",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/freeport.jpg",
+    "thumb": "freeport.jpg",
     "description": "",
     "url": "https://x20xx.com/freeport.php"
   },
@@ -243,7 +243,7 @@
     "title": "strmsg",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/strmsg.jpg",
+    "thumb": "strmsg.jpg",
     "description": "",
     "url": "https://x20xx.com/strmsg/"
   },
@@ -251,7 +251,7 @@
     "title": "TimePassed",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/timepassed.jpg",
+    "thumb": "timepassed.jpg",
     "description": "",
     "url": "https://x20xx.com/time.html"
   },
@@ -260,7 +260,7 @@
     "title": "Hexa",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/hexa.jpg",
+    "thumb": "hexa.jpg",
     "description": "",
     "url": "https://x20xx.com/hexa.html"
   },
@@ -268,7 +268,7 @@
     "title": "LargeText",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/largetext.jpg",
+    "thumb": "largetext.jpg",
     "description": "",
     "url": "https://x20xx.com/largetext.html"
   },
@@ -276,7 +276,7 @@
     "title": "The End",
     "artist": "x20xx",
     "artistWebsite": "https://x20xx.com/",
-    "thumb": "imgProcessed/theend.jpg",
+    "thumb": "theend.jpg",
     "description": "",
     "url": "https://x20xx.com/theend.html"
   },
@@ -284,7 +284,7 @@
     "title": "010000.org",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/010000.jpg",
+    "thumb": "010000.jpg",
     "description": "",
     "url": "https://010000.org/"
   },
@@ -292,7 +292,7 @@
     "title": "All the Minutes",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/alltheminutes.jpg",
+    "thumb": "alltheminutes.jpg",
     "description": "",
     "url": "http://alltheminutes.com/"
   },
@@ -300,7 +300,7 @@
     "title": "clickclickclick",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/click.jpg",
+    "thumb": "click.jpg",
     "description": "",
     "url": "https://clickclickclick.click/"
   },
@@ -308,7 +308,7 @@
     "title": "baabaa",
     "artist": "Sam Lavigne",
     "artistWebsite": "",
-    "thumb": "imgProcessed/baabaa.jpg",
+    "thumb": "baabaa.jpg",
     "description": "",
     "url": "https://antiboredom.github.io/baabaa/index.html"
   },
@@ -316,7 +316,7 @@
     "title": "okaygood",
     "artist": "Drew Wallace",
     "artistWebsite": "http://drewwallacegames.com/",
-    "thumb": "imgProcessed/okaygood.jpg",
+    "thumb": "okaygood.jpg",
     "description": "",
     "url": "http://drewwallacegames.com/okaygood.html"
   },
@@ -324,7 +324,7 @@
     "title": "Click here to save the World",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/save.jpg",
+    "thumb": "save.jpg",
     "description": "",
     "url": "https://clickheretosavetheworld.com/"
   },
@@ -332,7 +332,7 @@
     "title": "onelongscream.com/",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/ahh.jpg",
+    "thumb": "ahh.jpg",
     "description": "",
     "url": "http://onelongscream.com/"
   },
@@ -340,7 +340,7 @@
     "title": "iamtired.online",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/iamtired.jpg",
+    "thumb": "iamtired.jpg",
     "description": "",
     "url": "https://iamtired.online/"
   },
@@ -348,7 +348,7 @@
     "title": "eelslap.com",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/eel.jpg",
+    "thumb": "eel.jpg",
     "description": "",
     "url": "http://eelslap.com/"
   },
@@ -356,7 +356,7 @@
     "title": "yesnoif",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/yesnoif.jpg",
+    "thumb": "yesnoif.jpg",
     "description": "",
     "url": "http://www.yesnoif.com/"
   },
@@ -364,7 +364,7 @@
     "title": "Endless Horse",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/horse.jpg",
+    "thumb": "horse.jpg",
     "description": "",
     "url": "http://endless.horse/"
   },
@@ -372,7 +372,7 @@
     "title": "Move Now Think Later",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/movenow.jpg",
+    "thumb": "movenow.jpg",
     "description": "",
     "url": "http://www.movenowthinklater.com/"
   },
@@ -380,7 +380,7 @@
     "title": "fragmentsin.space",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/fragmentsinspace.jpg",
+    "thumb": "fragmentsinspace.jpg",
     "description": "",
     "url": "http://fragmentsin.space/"
   },
@@ -388,7 +388,7 @@
     "title": "paperstorm.it",
     "artist": "Studio Moniker",
     "artistWebsite": "",
-    "thumb": "imgProcessed/paperstorm.jpg",
+    "thumb": "paperstorm.jpg",
     "description": "",
     "url": "https://paperstorm.it/"
   },
@@ -396,7 +396,7 @@
     "title": "Radio Garden",
     "artist": "Studio Moniker",
     "artistWebsite": "",
-    "thumb": "imgProcessed/radiogarden.jpg",
+    "thumb": "radiogarden.jpg",
     "description": "",
     "url": "http://radio.garden"
   },
@@ -404,7 +404,7 @@
     "title": "http://wwwwwwwww.jodi.org/",
     "artist": "jodi.org",
     "artistWebsite": "http://wwwwwwwww.jodi.org/",
-    "thumb": "imgProcessed/jodiorg.jpg",
+    "thumb": "jodiorg.jpg",
     "description": "",
     "url": "http://wwwwwwwww.jodi.org/"
   },
@@ -412,7 +412,7 @@
     "title": "idn.jodi.org/",
     "artist": "jodi.org",
     "artistWebsite": "http://wwwwwwwww.jodi.org/",
-    "thumb": "imgProcessed/idnjodi.jpg",
+    "thumb": "idnjodi.jpg",
     "description": "",
     "url": "http://idn.jodi.org/"
   },
@@ -420,7 +420,7 @@
     "title": "The Expanding Universe",
     "artist": "Dimitris Gkikas",
     "artistWebsite": "https://folder-one.eu/",
-    "thumb": "imgProcessed/sxpandinguniverse.jpg",
+    "thumb": "sxpandinguniverse.jpg",
     "description": "",
     "url": "https://folder-one.eu/23.15/"
   },
@@ -428,7 +428,7 @@
     "title": "The Bible as a Hyperlink",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/bible.jpg",
+    "thumb": "bible.jpg",
     "description": "",
     "url": "http://www.thebibleasahyperlink.com/"
   },
@@ -436,7 +436,7 @@
     "title": "Scrollbar Composition",
     "artist": false,
     "artistWebsite": false,
-    "thumb": "imgProcessed/scrollbarcomposition.jpg",
+    "thumb": "scrollbarcomposition.jpg",
     "description": "",
     "url": "http://www.scrollbarcomposition.com/"
   },
@@ -444,7 +444,7 @@
     "title": "hoera.samenschool.org/",
     "artist": "Vincent Van Dijck",
     "artistWebsite": false,
-    "thumb": "imgProcessed/hoera.jpg",
+    "thumb": "hoera.jpg",
     "description": "",
     "url": "https://hoera.samenschool.org/"
   },
@@ -452,7 +452,7 @@
     "title": "Roomtones",
     "artist": "Vincent Van Dijck",
     "artistWebsite": false,
-    "thumb": "imgProcessed/roomtones.jpg",
+    "thumb": "roomtones.jpg",
     "description": "",
     "url": "https://roomtones.massa.media/"
   },
@@ -460,7 +460,7 @@
     "title": "Reflect",
     "artist": "Tim Rodenbröker",
     "artistWebsite": false,
-    "thumb": "imgProcessed/reflect.jpg",
+    "thumb": "reflect.jpg",
     "description": "",
     "url": "https://timrodenbroeker.github.io/reflect/"
   },
@@ -468,7 +468,7 @@
     "title": "The Wave",
     "artist": "Tim Rodenbröker",
     "artistWebsite": false,
-    "thumb": "imgProcessed/thewave.jpg",
+    "thumb": "thewave.jpg",
     "description": "The Wave is an interactive, audiovisual experience built with p5.js.",
     "url": "https://timrodenbroeker.github.io/thewave/"
   },
@@ -476,7 +476,7 @@
     "title": "The Grid",
     "artist": "Tim Rodenbröker",
     "artistWebsite": false,
-    "thumb": "imgProcessed/grid.jpg",
+    "thumb": "grid.jpg",
     "description": "",
     "url": "https://timrodenbroeker.github.io/the-grid/"
   },
@@ -484,7 +484,7 @@
     "title": "Indirect Flights",
     "artist": "Joe Hamilton",
     "artistWebsite": "https://joehamilton.info",
-    "thumb": "imgProcessed/indirectflights.jpg",
+    "thumb": "indirectflights.jpg",
     "description": "",
     "url": "https://indirect.flights/"
   }
