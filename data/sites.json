@@ -1,5 +1,37 @@
 [
   {
+    "title": "Déclin Séquence",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "Artist Statement: Version based composition developed each day of October 2020. The page is made of 31 <time> elements, that gets individually styled day after day. Visitors can use the slider to select a specific day, or the play button to auto browse the sequences one after the other.",
+    "url": "https://declin-sequence.neocities.org/"
+  },
+  {
+    "title": "empathi.cc",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "Artist Statement: The ability to understand and share other people’s feelings and problems is known as empathy. On the web page empathi.cc is a graphic element which can be moved and can mimic visual attributes from its neighbours. The style transfer between the page’s elements can be considered as a minimal version of empathy, where the distance between objects triggers visual mutations. Consequently, the main graphic element gets affected by an accumulating memory of style properties depending on its path. Created for the online group show Come Closer, curated by Anne Schwanz.",
+    "url": "https://empathi.cc/"
+  },
+  {
+    "title": "Snow on GPU",
+    "artist": "Raphaël Bastide",
+    "artistWebsite": "https://raphaelbastide.com/",
+    "thumb": false,
+    "description": "Artist Statement: A Graphics Processing Unit (GPU), is an electronic circuit specialized in rendering computer graphics. GPU cards can be also used to mine (validate blockchain-based transactions) cryptocurrencies and more recently, cryptoart. Snow on GPU confronts a popular web script -HTML asterisks falling down the screen- until they melt approaching the GPU location of a laptop. Your computer may heat a bit, that’s part of the piece.",
+    "url": "https://snow-on-gpu.online/"
+  },
+  {
+    "title": "a mute interface",
+    "artist": "Yotam Mann and Sarah Rothberg",
+    "artistWebsite": "https://yotammann.info/",
+    "thumb": false,
+    "description": false,
+    "url": "http://jazz.computer/"
+  },
+  {
     "title": "a mute interface",
     "artist": "Annie Abrahams",
     "artistWebsite": "https://aabrahams.wordpress.com/",
