@@ -3,7 +3,7 @@
     "title": "Mirrors",
     "artist": "Tim Rodenbröker",
     "artistWebsite": "https://timrodenbroeker.de",
-    "thumb": false,
+    "thumb": "img/mirrors.png",
     "description": "This project was created in summer 2020 during my master studies at the University of Applied Sciences Bielefeld (study field <i>Digital Media and Experiment</i>). Complementary to the digital works of the web-based exhibition <i>In This Layered World All Perception Is Real</i> of the Bielefelder Kunstverein we were commissoned to develop artistic reactions. So the aim was to interpret the works in the exhibition and to respond to them artistically.",
     "url": "https://timrodenbroeker.de/apps/mirrors/"
   },
@@ -11,7 +11,7 @@
     "title": "Physics of Beauty",
     "artist": "",
     "artistWebsite": "",
-    "thumb": false,
+    "thumb": "img/physics.png",
     "description": false,
     "url": "https://physicsofbeauty.art/"
   },
@@ -27,7 +27,7 @@
     "title": "otherti.me",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": false,
+    "thumb": "img/othertime.png",
     "description": "Hack of the popular video game concept Snake. In this implementation, an opening allows the snake to escape from the game level.",
     "url": "https://raphaelbastide.com/free-snake/"
   },
@@ -43,7 +43,7 @@
     "title": "evasive.tech",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": false,
+    "thumb": "img/evasivw.png",
     "description": "Daily artworks in quarantine times",
     "url": "https://evasive.tech/"
   },
@@ -51,7 +51,7 @@
     "title": "Déclin Séquence",
     "artist": "Raphaël Bastide",
     "artistWebsite": "https://raphaelbastide.com/",
-    "thumb": false,
+    "thumb": "img/declin.png",
     "description": "Artist Statement: Version based composition developed each day of October 2020. The page is made of 31 <time> elements, that gets individually styled day after day. Visitors can use the slider to select a specific day, or the play button to auto browse the sequences one after the other.",
     "url": "https://declin-sequence.neocities.org/"
   },
@@ -99,7 +99,7 @@
     "title": "antipedia.net",
     "artist": "Floor Vanden Berghe",
     "artistWebsite": "www.floorvandenberghe.be",
-    "thumb": false,
+    "thumb": "img/eyes.png",
     "description": false,
     "url": "http://www.antipedia.net/"
   },
@@ -139,7 +139,7 @@
     "title": "inner-values.report",
     "artist": "RULES RULES RULES",
     "artistWebsite": "https://rulesrulesrules.studio/",
-    "thumb": false,
+    "thumb": "img/innervalues.png",
     "description": "a website that is just its analytics report",
     "url": "http://inner-values.report/"
   },
