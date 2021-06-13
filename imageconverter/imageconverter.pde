@@ -20,15 +20,14 @@ void setup() {
   background(#f1f1f1);
   fill(#2000a1);
   noStroke();
-
 }
 
 void draw() {
   background(#f1f1f1);
-noStroke();
-fill(#2000a1);
+  noStroke();
+  fill(#ff0000);
   if (frameCount < imageFileNames.length+1) {
-    
+
     PImage img = loadImage(imageFileNames[frameCount-1]);
     img.resize(width, height);
     float tilesX = 200; 

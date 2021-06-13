@@ -62,7 +62,15 @@ function prepareHTML(data) {
 
   let uniqueArtistsArray = [...new Set(artistsArray)];
 
-  for (let i = 0; i < uniqueArtistsArray.length; i++) {
-    console.log(uniqueArtistsArray[i]);
-  }
+  let artistsSection = document.getElementById("artists");
+
+  // for (let i = 0; i < uniqueArtistsArray.length; i++) {
+  //   let artist = document.createElement("a");
+  //   artist.innerHTML = uniqueArtistsArray[i];
+  //   artist.classList.add("pill");
+
+  //   artistsSection.appendChild(artist);
+
+  //   console.log(uniqueArtistsArray[i]);
+  // }
 }

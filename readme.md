@@ -4,7 +4,6 @@
 
 ## Add
 
-- https://physicsofbeauty.art/
 - https://mrdoob.neocities.org/
 - https://www.damonzucconi.com/artworks/websites
 - http://nirvana.juliannes.website/
@@ -22,5 +21,4 @@
 - http://www.manifesto.media/
 - https://homeostasislab.org/
 - https://esoteric.codes/blog/pingfs-storing-your-files-in-network-traffic
-- https://ani-gif.com
 - http://www.areyouonl.in/e/
