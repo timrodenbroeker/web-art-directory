@@ -210,11 +210,18 @@ body.modalActive #silk {
     }
 }
 
+@media (max-width: 992px) {
+    #modal {
+        width: 85%;
+        right: -90%;
+    }
+}
+
 #modalHeader {
 }
 
 #modalContent {
-    padding: 25px;
+    padding: 15px;
 }
 
 #modalContent .lead {
@@ -377,7 +384,7 @@ header a {
 }
 
 .browser-mockup {
-    margin: 2em;
+    margin: 15px;
     flex: 1;
 }
 
