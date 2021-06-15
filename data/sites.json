@@ -304,6 +304,34 @@
     "description": false,
     "url": "http://alltheminutes.com/"
   },
+
+  {
+    "title": "this-person-does-exist.com",
+    "artist": "Matthias Pitscher",
+    "artistWebsite": "https://pitscher.net/",
+    "thumb": "thisperson.png",
+    "description": false,
+    "url": "https://this-person-does-exist.com/"
+  },
+
+  {
+    "title": "missing.pictures",
+    "artist": "Matthias Pitscher",
+    "artistWebsite": "https://pitscher.net/",
+    "thumb": "missing.png",
+    "description": false,
+    "url": "https://missing.pictures/"
+  },
+
+  {
+    "title": "mindfulscrolling.net",
+    "artist": "Matthias Pitscher",
+    "artistWebsite": "https://pitscher.net/",
+    "thumb": "mindfulscrolling.png",
+    "description": false,
+    "url": "https://mindfulscrolling.net"
+  },
+
   {
     "title": "clickclickclick",
     "artist": false,
